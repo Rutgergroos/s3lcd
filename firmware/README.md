@@ -5,6 +5,7 @@ The firmware.bin files have been tested on the devices listed below.
 ## GENERIC_S3_4M: with or without Quad SPIRAM 4M Flash
 
   - T-QT Pro
+  - Wemos Lolin S3 Mini Pro
 
 ## GENERIC_S3_8M: with or without Quad SPIRAM 8M Flash
 
